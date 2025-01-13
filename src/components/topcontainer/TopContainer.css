@@ -15,4 +15,16 @@
 .top-container div .head {
     font-size: 2rem;
     font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.top-container div input {
+    width: 80%;
+    margin-right: 18px;
+    height: 32px;
+}
+
+.top-container div button {
+    height: 32px;
+    width: 32px;
 }
