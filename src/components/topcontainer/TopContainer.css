@@ -22,9 +22,12 @@
     width: 80%;
     margin-right: 18px;
     height: 32px;
+    border-radius: 8px;
 }
 
 .top-container div button {
     height: 32px;
     width: 32px;
+    border-radius: 10px;
+    background-color: #640D5F;
 }
