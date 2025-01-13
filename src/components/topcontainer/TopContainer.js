@@ -24,7 +24,7 @@ function TopContainer() {
       <div className='top-container__budget-settings'>
       <p className='head'>Budget Settings</p>
       <input type='text' placeholder='Budget amount' />
-      <button>set Budget</button>
+      <button>Set Budget</button>
       </div>
      </div>
   )

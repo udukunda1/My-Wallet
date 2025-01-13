@@ -42,7 +42,7 @@
     width: 100%;
     border-radius: 10px;
     border: 0.1px solid #640D5F;
-    margin-top: 15px;
+    margin-top: 10px;
     display: flex;
     justify-content: space-between;
     padding: 6px;
@@ -51,6 +51,18 @@
 .top-container > div div .account-name {
     font-size: 1.1rem;
     font-weight: bold;
+}
+
+.top-container > .top-container__budget-settings button {
+    border-radius: 10px;
+    background-color: #640D5F;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    height: 32px;
+    width: 100%;
+    margin-top: 10px;
+    font-weight: 600;
 }
 
 .positive {
