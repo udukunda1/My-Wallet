@@ -4,7 +4,7 @@ import TopContainer from './components/topcontainer/TopContainer';
 function App() {
   return (
     <div >
-     <p>MY Wallet</p>
+     <p className='title'>MY Wallet</p>
      <TopContainer />
     </div>
   );
