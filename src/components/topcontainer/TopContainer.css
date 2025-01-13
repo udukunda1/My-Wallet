@@ -4,7 +4,7 @@
     justify-content: space-between;
 }
 
-.top-container div {
+.top-container > div {
     width: 31%;
     min-height: 43vh;
     border: 0.1px solid #640D5F;
@@ -12,25 +12,47 @@
     padding: 20px;
 }
 
-.top-container div .head {
+.top-container > div .head {
     font-size: 2rem;
     font-weight: 500;
     padding-bottom: 20px;
 }
 
-.top-container div input {
+.top-container > div input {
     width: 80%;
     margin-right: 18px;
     height: 32px;
     border-radius: 8px;
     border: 0.1px solid #640D5F;
+    padding: 7px;
 }
 
-.top-container div button {
+.top-container > div button {
     height: 32px;
     width: 32px;
     border-radius: 10px;
     background-color: #640D5F;
     border: 0;
     color: white;
+    cursor: pointer;
+}
+
+.top-container > div div {
+    height: 32px;
+    width: 100%;
+    border-radius: 10px;
+    border: 0.1px solid #640D5F;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+}
+
+.top-container > div div .account-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.top-container > div div .acount-balance {
+    color: #16A44C;
 }
