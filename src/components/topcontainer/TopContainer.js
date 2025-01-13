@@ -11,6 +11,10 @@ function TopContainer() {
             <p className='account-name'>MOMO</p>
             <p className='acount-balance'>RWF 600</p>
         </div>
+        <div>
+            <p className='account-name'>MOMO</p>
+            <p className='acount-balance'>RWF 600</p>
+        </div>
       </div>
       <div className='top-container__categories'>
       <p className='head'>Categories</p>
