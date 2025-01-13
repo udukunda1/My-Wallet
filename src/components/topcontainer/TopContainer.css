@@ -1,0 +1,13 @@
+.top-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.top-container div {
+    width: 31%;
+    min-height: 43vh;
+    border: 0.1px solid #640D5F;
+    border-radius: 10px;
+    padding: 20px;
+}
