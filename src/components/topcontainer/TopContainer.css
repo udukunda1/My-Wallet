@@ -23,6 +23,7 @@
     margin-right: 18px;
     height: 32px;
     border-radius: 8px;
+    border: 0.1px solid #640D5F;
 }
 
 .top-container div button {
@@ -30,4 +31,6 @@
     width: 32px;
     border-radius: 10px;
     background-color: #640D5F;
+    border: 0;
+    color: white;
 }
