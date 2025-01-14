@@ -12,7 +12,7 @@ function TopContainer() {
             <p className='acount-balance negative'>RWF -700</p>
         </div>
         <div>
-            <p className='account-name'>MOMO</p>
+            <p className='account-name'>Equity</p>
             <p className='acount-balance positive'>RWF 600</p>
         </div>
       </div>
